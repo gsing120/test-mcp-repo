@@ -1,7 +1,1 @@
-console.log('Hello, MCP!');
-
-function testFunction() {
-    return 'Testing MCP GitHub functionality';
-}
-
-module.exports = testFunction;
+Y29uc29sZS5sb2coJ0hlbGxvLCBNQ1AhJyk7CgpmdW5jdGlvbiB0ZXN0RnVuY3Rpb24oKSB7CiAgICByZXR1cm4gJ1Rlc3RpbmcgTUNQIEdpdEh1YiBmdW5jdGlvbmFsaXR5JzsKfQoKbW9kdWxlLmV4cG9ydHMgPSB0ZXN0RnVuY3Rpb247
